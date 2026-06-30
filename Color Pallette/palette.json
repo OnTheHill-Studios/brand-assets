@@ -2,7 +2,7 @@
   "colors": {
     "gold":           { "hex": "#BAA565", "role": "Primary accent" },
     "sage":           { "hex": "#7C8E7A", "role": "Secondary accent" },
-    "green":          { "hex": "#8EB984", "role": "Success" },
+    "green":          { "hex": "#649957", "role": "Success" },
     "off-white":      { "hex": "#F5F2EC", "role": "Background / elevated surface" },
     "light-gray":     { "hex": "#E9E9E9", "role": "Surface" },
     "neutral-greige": { "hex": "#B8AF9F", "role": "Border / divider / disabled" },
